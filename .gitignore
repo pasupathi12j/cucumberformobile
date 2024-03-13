@@ -1,0 +1,6 @@
+*.iml
+.*/
+.*
+!.git*
+.idea/
+target
